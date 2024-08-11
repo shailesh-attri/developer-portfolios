@@ -593,6 +593,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Seunghun Bang](https://seunghun-website.vercel.app)
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shahid Shaikh](http://shahidshaikh.com)
+- [Shailesh Attri](http://shaileshattri.in)
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shikhar Gupta](https://shikhar97.github.io)
